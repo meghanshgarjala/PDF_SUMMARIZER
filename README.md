@@ -59,13 +59,6 @@ A powerful and efficient **PDF Summarization Tool** that utilizes cutting-edge t
 ![Summary](2.png)
 
 
-### 📂 Project Structure
-
-📁 pdf-summarizer-tool
-├── 📄 app.py           # Main Streamlit application
-├── 📄 README.md        # Project documentation
-├── 📄 requirements.txt # Python dependencies
-
 ### 🤝 Contributing
 
 Contributions are welcome! Please fork the repository and create a pull request with your changes. Ensure all contributions align with the project's goals and maintain a professional standard.
